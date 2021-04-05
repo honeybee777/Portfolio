@@ -1,4 +1,3 @@
-### Here are a few one page sites created with HTML & CSS
 
 ## DoggieLand Adoption
 
