@@ -1,2 +1,2 @@
-# Project_one
-One-page site using HTML and CSS
+# Portfolio
+One-page sites using HTML and CSS
